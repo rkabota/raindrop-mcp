@@ -57,6 +57,7 @@ bun-debug.log*
 raindrop-mcp.code-workspace
 
 **/CLAUDE.local.md
+.claude/settings.local.json
 
 # Ignore backup files
 **/*.backup
